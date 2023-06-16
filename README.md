@@ -12,7 +12,7 @@ Kriliya is a web app built with React.js that provides rental services for vario
 - Search and Filtering: Users can search for objects based on specific criteria and apply filters to refine their search results.
 
 ## Prerequisites
-
+ 
 Before running the app, ensure that you have the following installed:
 
 - Node.js: [Installation Guide](https://nodejs.org/en/download/)
